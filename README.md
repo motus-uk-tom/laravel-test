@@ -19,7 +19,7 @@ This is a PHP test that will help show your knowledge with creating Laravel appl
 
 # The Task
 
-Your task is to create a simple forum web application using PHP Laravel Framework.
+Your task is to create a simple forum using PHP and the Laravel Framework.
 
 The application should have the following functionality:
 
